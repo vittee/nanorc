@@ -7,11 +7,11 @@ definitions of syntax highlighting for various languages.
 These should be placed inside of the ``~/.nano/`` directory.
 Alternatively::
 
-    git clone git@github.com:scopatz/nanorc.git ~/.nano
+    git clone git@github.com:vittee/nanorc.git ~/.nano
     
 *Note - if you have any issues, alternatively use::
 
-    git clone https://github.com/scopatz/nanorc.git ~/.nano
+    git clone https://github.com/vittee/nanorc.git ~/.nano
 
 
 Once there you should add the languages you want to your
