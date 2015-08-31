@@ -1,7 +1,7 @@
 ## Here is an example for Python.
 ##
 syntax "python" "\.py$"
-header "^#!.*/(env +)?python( |$)"
+
 
 ## built-in objects
 color cyan "\<(None|self|True|False)\>"

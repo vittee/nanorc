@@ -1,5 +1,5 @@
 syntax "ini" "\.(ini|desktop|lfl|override)$" "(mimeapps\.list|pinforc|setup\.cfg)$" "weechat/.+\.conf$"
-header "^\[[A-Za-z]+\]$"
+
 
 color brightcyan "\<(true|false)\>"
 color cyan "^[[:space:]]*[^=]*="
